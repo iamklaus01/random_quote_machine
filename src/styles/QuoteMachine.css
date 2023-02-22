@@ -1,0 +1,28 @@
+#quote-box{
+    width:30rem;
+    padding:1rem;
+    background-color: white;
+    border-radius: .5rem
+}
+  
+.text-container{
+    font-size:16px;
+}
+  
+.author-container{
+    display:flex;
+    justify-content:flex-end;
+}
+.btn-container{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+.btn-action{
+    padding:.5rem;
+    border-radius:.2rem;
+    border:none;
+    background-color:lime;
+    color:white;
+    cursor: pointer;
+}
